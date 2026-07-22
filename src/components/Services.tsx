@@ -7,28 +7,28 @@ const services = [
     title: 'Website Design',
     description: 'Modern responsive websites with premium interfaces and high-performance animations.',
     icon: <Monitor />,
-    image: '/src/assets/images/futuristic_3d_code_icon_1783452273277.jpg',
+    image: 'https://res.cloudinary.com/dfjezzfhc/image/upload/v1784725425/9e0d34d8-5763-496c-b820-d5aa4f17cd46_jdwr0u.png',
     color: 'from-blue-500/20 to-navy-deep'
   },
   {
     title: 'Mobile App Development',
     description: 'Beautiful mobile applications with smooth user experience and native performance.',
     icon: <Smartphone />,
-    image: '/src/assets/images/futuristic_3d_mobile_icon_1783452284352.jpg',
+    image: 'https://res.cloudinary.com/dfjezzfhc/image/upload/v1784725425/3f06a2ae-08b8-402c-97a9-b72ca8c6a360_nbzbmq.png',
     color: 'from-bordeaux-light/20 to-navy-deep'
   },
   {
     title: 'UI/UX Design',
     description: 'Creative user interfaces focused on psychological patterns and seamless interactions.',
     icon: <Palette />,
-    image: '/src/assets/images/futuristic_3d_design_icon_1783452296261.jpg',
+    image: 'https://res.cloudinary.com/dfjezzfhc/image/upload/v1784725343/ChatGPT_Image_Jul_22_2026_05_00_08_PM_bl8isf.png',
     color: 'from-purple-500/20 to-navy-deep'
   },
   {
     title: 'Branding & Digital Identity',
     description: 'Crafting unique visual languages and strategic branding for luxury tech companies.',
     icon: <PenTool />,
-    image: '/src/assets/images/futuristic_3d_branding_icon_1783452363061.jpg',
+    image: 'https://res.cloudinary.com/dfjezzfhc/image/upload/v1784725344/ChatGPT_Image_Jul_22_2026_05_01_45_PM_lpry8s.png',
     color: 'from-red-500/20 to-navy-deep'
   }
 ];
