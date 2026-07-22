@@ -137,7 +137,7 @@ function ThemeApp() {
   }, []);
 
   return (
-    <Router>
+    <Router basename="/Medbentaher_Portfolio/">
       <div className="relative min-h-screen bg-navy-deep transition-colors duration-500">
         <ScrollToTop />
         <ScrollProgressBar />
